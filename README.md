@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm PRATIK DINESH DHUMAL</h1>
+<h1 align="center">Hi 👏, I'm PRATIK DINESH DHUMAL</h1>
 <h3 align="center">Interesting for Web Developer and Software Developer</h3>
 
 - Skills **HTML, CSS, Java Script, React Framework, Java, SQL**
