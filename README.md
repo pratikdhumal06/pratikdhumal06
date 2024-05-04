@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👏, I'm PRATIK DINESH DHUMAL</h1>
 <h3 align="center">Interesting for Web Developer and Software Developer</h3>
 
-<img align="right" alt="Image Not Loading" width="400" src=""> 
+<img align="right" alt="Image Not Loading" width="400" src="https://github.com/pratikdhumal06/pratikdhumal06/blob/main/Animantion%20codin%20gif.gif"> 
 - Skills **HTML, CSS, Java Script, React Framework, Java, SQL**
 
 - 📫 How to reach me **pratikdhumal06@gmail.com**
