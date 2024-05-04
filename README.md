@@ -2,9 +2,9 @@
   <source src="" alt="Not Visible">
 </video>
 <h1 align="center">Hi 👏, I'm PRATIK DINESH DHUMAL</h1>
-
 <h3 align="center">Interesting for Web Developer and Software Developer</h3>
 
+<img align="right" alt="Image Not Loading" width="400" src=""> 
 - Skills **HTML, CSS, Java Script, React Framework, Java, SQL**
 
 - 📫 How to reach me **pratikdhumal06@gmail.com**
