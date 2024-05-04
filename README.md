@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👏, I'm PRATIK DINESH DHUMAL</h1>
+
 <h3 align="center">Interesting for Web Developer and Software Developer</h3>
 
 - Skills **HTML, CSS, Java Script, React Framework, Java, SQL**
@@ -17,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikdhumal06&show_icons=true&locale=en&layout=compact" alt="pratikdhumal06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikdhumal06&show_icons=true&locale=en" alt="pratikdhumal06" /></p>
+
