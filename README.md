@@ -1,6 +1,5 @@
-<video controls>
-  <source src="" alt="Not Visible">
-</video>
+<img  alt="Image Not Loading" width="1000" height="300" src="https://github.com/pratikdhumal06/pratikdhumal06/blob/main/Banner%20Background.gif" >
+
 <h1 align="center">Hi 👏, I'm PRATIK DINESH DHUMAL</h1>
 <h3 align="center">Interesting for Web Developer and Software Developer</h3><br>
 <img align="right" alt="Image Not Loading" width="370" src="https://github.com/pratikdhumal06/pratikdhumal06/blob/main/Animantion%20codin%20gif.gif"> <br><br>
